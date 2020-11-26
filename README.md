@@ -8,6 +8,8 @@ Complete Segmentation and Cleanup Image
 Cleanup Image/Remove Noise
 Measure the Object Diameter
 
+Demo Video: https://youtu.be/EnjZIVm8GUY
+
 Reference:  Image Processing Made Easy. Perf. Andy The. Mathworks. N.p., 15 Oct. 2014. Web. 07 Nov. 2014. http://www.mathworks.com/videos/image-processing-made-easy-81718.html
 
 
